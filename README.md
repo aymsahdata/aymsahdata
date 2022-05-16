@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ayman, a current student at AU learning Data Analytics & Data Storytelling</div>  
+### <div align="center">I'm Ayman, a student at AU learning Data Analytics & Data Storytelling</div>  
   
 
 - 🔭 I’m currently working on [**Bird ID using ResNet50 & TFlite**](https://github.com/aymsahdata/birdTFlite)  
