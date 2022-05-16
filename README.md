@@ -96,16 +96,15 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymsahdata&hide_border=true&theme=merko&layout=compact" align="center" /></div>  
-
+<p><p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aymsahdata&show_icons=true&count_private=true&theme=merko&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-## Musico
-
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=obcrn4d1yq6yv1u03rdjbt80d&cover_image=true&theme=compact" /></div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=obcrn4d1yq6yv1u03rdjbt80d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
