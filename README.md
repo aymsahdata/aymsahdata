@@ -101,11 +101,11 @@
 
 <br/>  
 
-
+## Musico
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=obcrn4d1yq6yv1u03rdjbt80d&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=obcrn4d1yq6yv1u03rdjbt80d&cover_image=true&theme=compact" /></div>  
 
 <br/>  
 
