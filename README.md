@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://github.com/aymsahdata/myself/blob/main/myself2.gif" align="center" style="width: 100%" />
-</div>  
+
+
+ 
   
 
 ### <div align="center">I'm Ayman, a student at AU learning Data Analytics & Data Storytelling</div>  
