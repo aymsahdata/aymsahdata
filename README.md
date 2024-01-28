@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ayman, a student at AU learning Data Analytics & Data Storytelling</div>  
   
 
-- 🔭 I’m currently working on **PoC Testing on multiple projects**
+- 🔭 I’m currently working on **Conversational and Control AI**
   
 
-- 🌱 I’m currently learning **nodeJS and React**  
+- 🌱 I’m currently learning **Advancing on AI and ML**  
   
 
 - ⚡ Other experiences:  **AMV Editing in After Effects**  
