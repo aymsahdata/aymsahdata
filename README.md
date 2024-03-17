@@ -90,12 +90,7 @@
 
 <br/>  
 
-<br/>  
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=obcrn4d1yq6yv1u03rdjbt80d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aymsahdata&&style=flat-square" align="center" />
