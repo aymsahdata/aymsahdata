@@ -78,7 +78,7 @@
 
 <br/>  
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymsahdata&hide_border=true&theme=merko&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymsahdata&hide_border=true&theme=transparent&layout=compact" align="center" /></div>  
 <br/>   
 
 <div align="center">
