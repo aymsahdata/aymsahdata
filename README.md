@@ -13,8 +13,7 @@
 
 
 ### Frontend/Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -81,9 +80,7 @@
   
 
 <br/>  
-
-
-## Github Stats  
+  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymsahdata&hide_border=true&theme=merko&layout=compact" align="center" /></div>  
 <br/>   
 
