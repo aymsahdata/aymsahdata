@@ -85,11 +85,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymsahdata&hide_border=true&theme=merko&layout=compact" align="center" /></div>  
-<p><p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aymsahdata&show_icons=true&count_private=true&theme=merko&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 <br/>   
 
 <div align="center">
